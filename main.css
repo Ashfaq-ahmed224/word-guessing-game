@@ -1,0 +1,46 @@
+body {
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 500%;
+    text-align: center;
+}
+
+
+
+
+h1 {
+    text-align: left;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+.para1 {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(7, 82, 38);
+    font-size: 30px;
+    text-align: center;
+
+}
+
+
+
+#para2 {
+    text-align: left;
+    font-style: italic;
+    color: rgb(104, 94, 7);
+    text-align: center;
+    font-size: largers;
+
+}
+
+button {
+    color: rgb(218, 24, 24);
+
+
+    font-size: bold;
+
+}
